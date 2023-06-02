@@ -206,7 +206,7 @@ function App() {
     },
     {
         "word": "Vir Zua Zua Gol Gol",
-        "description": "5+0 health stat, +50 mana stat"
+        "description": "+50 health stat, +50 mana stat"
     },
     {
         "word": "El The Zer Ter Hil",
@@ -218,27 +218,27 @@ function App() {
     },
     {
         "word": "Dev Ral Fuk Ela Say",
-        "description": "+15 health stat, +45 mana stat, 3% strength skill, 3% wisdom skill"
+        "description": "+15 health stat, +45 mana stat, 3 strength skill, 3 wisdom skill"
     },
     {
         "word": "Zer Ant Gar Hal Gol",
-        "description": "+35 health stat, +20 mana stat, 2% strength skill, 2% dexterity skill, 2% condition skill, 2% wisdom skill, 2% vigor skill"
+        "description": "+35 health stat, +20 mana stat, 2 strength skill, 2 dexterity skill, 2 condition skill, 2 wisdom skill, 2 vigor skill"
     },
     {
         "word": "Ami Ral Gil Dom Vir",
-        "description": "60% health stat, 2% strength skill, 2% dexterity skill, 2% condition skill, 2% wisdom skill, 2% vigor skill"
+        "description": "+60 health stat, 2 strength skill, 2 dexterity skill, 2 condition skill, 2 wisdom skill, 2 vigor skill"
     },
     {
         "word": "Dev Sev Zua Gol Ger",
-        "description": "10% health stat, 5% strength skill, 5% dexterity skill, 5% condition skill, 5% wisdom skill, 5% vigor skill, -25 speed"
+        "description": "+10 health stat, 5 strength skill, 5 dexterity skill, 5 condition skill, 5 wisdom skill, 5 vigor skill, -25 speed"
     },
     {
         "word": "Ant Ral Vol Gar Imr",
-        "description": "-100% health stat, 30 criticalhitchance, 8 criticalhitmulti, 3 doublehit, true decreasearmor"
+        "description": "-100 health stat, 30 criticalhitchance, 8 criticalhitmulti, 3 doublehit, true decreasearmor"
     },
     {
         "word": "El El Szu Bur Kar",
-        "description": "10% strength skill"
+        "description": "+10 strength skill"
     },
     {
         "word": "Vol Vir Vir Hil Hil",
